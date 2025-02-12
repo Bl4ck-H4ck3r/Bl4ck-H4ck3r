@@ -1,6 +1,4 @@
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-
 <!-- Social badges section -->
 <p align="center">
   <a href="https://github.com/Bl4ckH4ck3rs?tab=followers">
@@ -13,12 +11,9 @@
 
 <!-- Github Achivements -->
 <div align="center" width="100%">
-<h2 align="center">📊 Github Stats and Activity</h2>
 <br>
-<h3>🔥 Streak Stats</h3>
 <p align="center"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bl4ckH4ck3rs&theme=gruvbox-duo&border_color=30363d" alt="GitHub streak" /></p>
 <br>
-<h3>💡 GitHub Profile Stats</h3>
 <p align="center">
   <img width="40%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bl4ckH4ck3rs&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bl4ckH4ck3rs&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
@@ -30,7 +25,7 @@
 <hr>
 <br>
 
-<!-- Languages and Tools -->
+<!-- Languages and Tools
 <h2 align="center">🧠 Skills</h2>
   <h3 align="center">👨‍💻 Languages and Frameworks</h3>
   <p align="center">
@@ -51,7 +46,7 @@
     </a>
   </p>
 <hr>
-<!--         kali,linux,stackoverflow,twitter,ubuntu -->
+ kali,linux,stackoverflow,twitter,ubuntu -->
 <br>
 
 <!-- Connect with me 
