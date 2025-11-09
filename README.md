@@ -9,29 +9,25 @@
 <hr>
 <br>
 
-<!-- Github Achivements -->
 <div align="center" width="100%">
-<br>
-<p align="center"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bl4ck-H4ck3r&theme=gruvbox-duo&border_color=30363d" alt="GitHub streak" /></p>
-<br>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bl4ck-H4ck3r&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bl4ck-H4ck3r&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
-</p>
-<br>
-<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bl4ck-H4ck3r&theme=onestar"></p>
+  <br>
+  <p align="center"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bl4ck-H4ck3r&theme=gruvbox-duo&border_color=30363d" alt="GitHub streak" /></p>
+  <br>
+  <p align="center">
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bl4ck-H4ck3r&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bl4ck-H4ck3r&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
+  </p>
+  <br>
+  <p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bl4ck-H4ck3r&theme=onestar"></p>
 </div>
 <hr>
 <br>
 
-<!-- Languages and Tools -->
-<h2 align="center">🧠 Skills</h2>
-  <h3 align="center">👨‍💻 Languages and Frameworks</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,jquery,django,sqlite,sklearn,selenium,regex,bots,github,sublime,pycharm,webstorm,opencv,tensorflow&perline=9" width="100%" height="100%" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,jquery,django,sqlite,sklearn,selenium,regex,bots,github,sublime,pycharm,webstorm,opencv,tensorflow&perline=9" width="100%" height="100%" />
+  </a>
+</p>
 <hr>
 <br>
 
