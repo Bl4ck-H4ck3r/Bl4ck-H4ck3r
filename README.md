@@ -19,7 +19,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bl4ck-H4ck3r&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 <br>
-<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bl4ckH4ck3rs&theme=onestar"></p>
+<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bl4ck-H4ck3r&theme=onestar"></p>
 </div>
 <hr>
 <br>
@@ -29,19 +29,7 @@
   <h3 align="center">👨‍💻 Languages and Frameworks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,django,sqlite,sklearn,selenium,regex,bots,github&perline=8" width="100%" height="100%" />
-    </a>
-  </p>
-  <h3 align="center">🧰 Tools</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sublime,atom,pycharm,webstorm,windows,gmail&perline=3" width="40%" height="40%" />
-    </a>
-  </p>
-  <h3 align="center">📈 Learning and practicing</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,opencv,tensorflow&perline=4" width="50%" height="50%"/>
+      <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,jquery,django,sqlite,sklearn,selenium,regex,bots,github,sublime,pycharm,webstorm,opencv,tensorflow&perline=9" width="100%" height="100%" />
     </a>
   </p>
 <hr>
