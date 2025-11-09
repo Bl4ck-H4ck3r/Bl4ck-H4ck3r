@@ -33,7 +33,6 @@
     </a>
   </p>
 <hr>
- kali,linux,stackoverflow,twitter,ubuntu
 <br>
 
 <!-- Connect with me 
